@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5fc1e204-a8f8-4508-b92e-bd722e86872b" name="Changes" comment="Git test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +35,8 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/mfoor/Desktop/nord-jetbrains.jar",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.customizations"
   }
 }]]></component>
   <component name="RunManager">
@@ -60,7 +62,7 @@
       <option name="presentableId" value="Default" />
       <updated>1652110009767</updated>
       <workItem from="1652110017876" duration="912000" />
-      <workItem from="1652110957081" duration="1164000" />
+      <workItem from="1652110957081" duration="4404000" />
     </task>
     <task id="LOCAL-00001" summary="Git test">
       <created>1652111635879</created>
@@ -76,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1652111647059</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Git test">
+      <created>1652112143362</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652112143362</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
